@@ -13,7 +13,7 @@ make STL= 1 (for the Standard Template Library)
 <li>std::make_pair</li>
 </ul>
 
-<h3>Binary search tree</h3>
+<h3>AVL tree</h3>
 <ul>
 <li>https://www.youtube.com/watch?v=mtvbVLK5xDQ</li>
 <li>https://www.youtube.com/watch?v=1-l_UOFi1Xw</li>
